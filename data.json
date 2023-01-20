@@ -1,0 +1,668 @@
+{
+    "conversion": {
+        "currentConversion": 310,
+        "previousConversion": 919,
+        "categories": [
+            {
+                "title": "Samle forbruksl\u00e5n",
+                "icon": "ico-forbrukslan_bankservices",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Sparing & investering",
+                "icon": "ico-sparing-investering",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Pensjonssparing",
+                "icon": "ico-pensjonssparing",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Bredb\u00e5nd",
+                "icon": "ico-bredband",
+                "amount": 42,
+                "fullConversion": 36,
+                "fewCustomersConversion": 6,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 6305,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Eiendomsmegler",
+                "icon": "ico-eiendom",
+                "amount": 16,
+                "fullConversion": 5,
+                "fewCustomersConversion": 11,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 18245,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Utleiemegler",
+                "icon": "ico-utleiemegler",
+                "amount": 3,
+                "fullConversion": 0,
+                "fewCustomersConversion": 3,
+                "noCustomersConversion": 1,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 3065,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Huskatalog",
+                "icon": "ico-huskataloger",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Bygge hytte",
+                "icon": "ico-bygge-ny-hytte-katalogbestilling",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Bygge ny garasje",
+                "icon": "ico-garasje",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Advokat",
+                "icon": "ico-advokater",
+                "amount": 11,
+                "fullConversion": 6,
+                "fewCustomersConversion": 5,
+                "noCustomersConversion": 4,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 4684,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Flyttebyr\u00e5",
+                "icon": "ico-flyttebyraaer",
+                "amount": 10,
+                "fullConversion": 0,
+                "fewCustomersConversion": 10,
+                "noCustomersConversion": 3,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 1150,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Varmepumpe",
+                "icon": "ico-varmepumper",
+                "amount": 41,
+                "fullConversion": 11,
+                "fewCustomersConversion": 29,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 14331.5,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Varmepumpeservice",
+                "icon": "ico-varmepumpeservice",
+                "amount": 6,
+                "fullConversion": 0,
+                "fewCustomersConversion": 6,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 702,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Boligalarm",
+                "icon": "ico-boligalarm",
+                "amount": 2,
+                "fullConversion": 2,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 1710,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Solskjerming",
+                "icon": "ico-solskjerming",
+                "amount": 2,
+                "fullConversion": 2,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 767,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Vinduer",
+                "icon": "ico-vinduer",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Isolering",
+                "icon": "ico-isolering",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Radon",
+                "icon": "ico-radon",
+                "amount": 1,
+                "fullConversion": 0,
+                "fewCustomersConversion": 1,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 55,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Garasjeporter",
+                "icon": "ico-garasjeporter",
+                "amount": 2,
+                "fullConversion": 0,
+                "fewCustomersConversion": 2,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 418,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Skadedyrkontroll",
+                "icon": "ico-skadedyrkontroll",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Kj\u00f8kken",
+                "icon": "ico-kjoekken",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Termografering",
+                "icon": "ico-termografering",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Aircondition",
+                "icon": "ico-aircondition",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Bedriftsforsikring",
+                "icon": "ico-bedriftsforsikring",
+                "amount": 3,
+                "fullConversion": 0,
+                "fewCustomersConversion": 3,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 885,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Regnskapsf\u00f8rer",
+                "icon": "ico-regnskapsfoerere",
+                "amount": 2,
+                "fullConversion": 1,
+                "fewCustomersConversion": 1,
+                "noCustomersConversion": 1,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 1126,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Trykkerier",
+                "icon": "ico-trykkerier",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Takstmann",
+                "icon": "ico-takstmann",
+                "amount": 1,
+                "fullConversion": 0,
+                "fewCustomersConversion": 1,
+                "noCustomersConversion": 1,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Forbruksl\u00e5n",
+                "icon": "ico-forbrukslaan",
+                "amount": 1,
+                "fullConversion": 0,
+                "fewCustomersConversion": 1,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 195,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Forsikring",
+                "icon": "ico-forsikring",
+                "amount": 96,
+                "fullConversion": 32,
+                "fewCustomersConversion": 63,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 15066,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Str\u00f8m",
+                "icon": "ico-stroem",
+                "amount": 36,
+                "fullConversion": 36,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 7020,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Mobilabonnement",
+                "icon": "ico-mobilabonnement",
+                "amount": 8,
+                "fullConversion": 7,
+                "fewCustomersConversion": 1,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 1390,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Hjemmelader-elbil",
+                "icon": "ico-hjemmelader-elbil",
+                "amount": 17,
+                "fullConversion": 3,
+                "fewCustomersConversion": 14,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 4963,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Boligl\u00e5n",
+                "icon": "ico-boliglan",
+                "amount": 2,
+                "fullConversion": 0,
+                "fewCustomersConversion": 2,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 160,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Bill\u00e5n",
+                "icon": "ico-billaan",
+                "amount": 8,
+                "fullConversion": 0,
+                "fewCustomersConversion": 8,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 1560,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Omstartsl\u00e5n",
+                "icon": "ico-omstartslaan",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "L\u00e5n",
+                "icon": "ico-laan",
+                "amount": 0,
+                "fullConversion": 0,
+                "fewCustomersConversion": 0,
+                "noCustomersConversion": 0,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 0,
+                "isCurrentIncomeGreaterThanPrevious": false
+            }
+        ]
+    },
+    "customers": {
+        "currentCustomers": 11,
+        "previousCustomers": 5,
+        "list": [
+            {
+                "date": "2020-10-21",
+                "title": "ESTATEMENT AS",
+                "category": "Eiendomsmegler",
+                "icon": "ico-eiendom",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-10-21",
+                "title": "ULLENSAKER REGNSKAP AS",
+                "category": "Regnskapsf\u00f8rer",
+                "icon": "ico-regnskapsfoerere",
+                "newCustomers": 2,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2019-03-27",
+                "title": "NKS Butikkdrift AS",
+                "category": "Varmepumpe",
+                "icon": "ico-varmepumper",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-10-14",
+                "title": "KR\u00d8DEREN KLIMA AS",
+                "category": "Varmepumpe",
+                "icon": "ico-varmepumper",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-02-17",
+                "title": "ADVOKAT HARALD S\u00d8NDEN\u00c5 JACOBSEN",
+                "category": "Advokat",
+                "icon": "ico-advokater",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-10-13",
+                "title": "FLEXCALL AS",
+                "category": "Bredb\u00e5nd",
+                "icon": "ico-bredband",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-10-12",
+                "title": "STOVNER FLYTTETRANSPORT AS",
+                "category": "Flyttebyr\u00e5",
+                "icon": "ico-flyttebyraaer",
+                "newCustomers": 2,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-10-09",
+                "title": "SEVOS DA",
+                "category": "Flyttebyr\u00e5",
+                "icon": "ico-flyttebyraaer",
+                "newCustomers": 2,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2018-03-07",
+                "title": "BERGESEN & PARTNERE AS",
+                "category": "Eiendomsmegler",
+                "icon": "ico-eiendom",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-10-07",
+                "title": "AKA REGNSKAP AS",
+                "category": "Regnskapsf\u00f8rer",
+                "icon": "ico-regnskapsfoerere",
+                "newCustomers": 2,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-10-06",
+                "title": "SKY INSURANCE AS",
+                "category": "Forsikring",
+                "icon": "ico-forsikring",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            },
+            {
+                "date": "2020-09-24",
+                "title": "S\u00d8RMEGLEREN AS",
+                "category": "Eiendomsmegler",
+                "icon": "ico-eiendom",
+                "newCustomers": 1,
+                "personPhoto": "https:\/\/tjenestetorget.no\/uploads\/images\/original\/98\/bb5ed1584d81192e8f055482f39583.jpg",
+                "personName": "Jimmy",
+                "personCount": 9
+            }
+        ]
+    },
+    "devices": {
+        "currentOnlineUsers": 104,
+        "currentDesktopUsers": 74,
+        "currentTabletUsers": 4,
+        "currentMobileUsers": 26
+    },
+    "plans": {
+        "categories": [
+            {
+                "title": "Marketing",
+                "icon": "ico-marketing",
+                "content": [
+                    "- Analysere AB -tester.\r",
+                    "- Fortsette \u00e5 jobbe med T-finans.\r",
+                    "- Jobbe med Adform.\r",
+                    "- Nyhetsbrev varmepumpe.\r",
+                    "\r",
+                    " - Skrive om forsikring."
+                ],
+                "persons": [
+                    {
+                        "name": "Jakub",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-jakub.jpg"
+                    },
+                    {
+                        "name": "Linda Therese",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-linda.jpg"
+                    },
+                    {
+                        "name": "Julie",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-julie.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "Utvikling",
+                "icon": "ico-utvikling",
+                "content": [
+                    ";)"
+                ],
+                "persons": [
+                    {
+                        "name": "Sven H\u00e5kon",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-sven.jpg"
+                    },
+                    {
+                        "name": "Vladislav",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-vlad.jpg"
+                    },
+                    {
+                        "name": "Pavel",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-pavel.jpg"
+                    },
+                    {
+                        "name": "Alexander",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-alex.jpg"
+                    },
+                    {
+                        "name": "Dmitry",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-dmitry.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "Salg",
+                "icon": "ico-salg",
+                "content": [
+                    "- TV pakker og oppf\u00f8lging."
+                ],
+                "persons": [
+                    {
+                        "name": "Dan Bendik",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-dan.jpg"
+                    },
+                    {
+                        "name": "Aida",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-aida.jpg"
+                    },
+                    {
+                        "name": "Jimmy",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-jimmy.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "Administrasjon & Support",
+                "icon": "ico-administrasjon",
+                "content": [
+                    "- Samle inn bilag.\r",
+                    "- Jobbe p\u00e5 CRMn til Ice.\r",
+                    "- Starte med krediteringer. \r",
+                    "\r",
+                    "Anders : \r",
+                    "Konsernm\u00f8te, Nettavisen m\u00f8te og m\u00f8te med Gjensidige."
+                ],
+                "persons": [
+                    {
+                        "name": "Anders",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-anders.jpg"
+                    },
+                    {
+                        "name": "P\u00e5l",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-pal.jpg"
+                    },
+                    {
+                        "name": "Isak",
+                        "photo": "https:\/\/tv.tjenestetorget.no\/images\/vis-isak.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    "income": {
+        "currentDay": "83797.50",
+        "previousDay": "216118.50",
+        "currentWeek": "843724.00",
+        "currentWeekGoal": 902548,
+        "currentWeekGoalExceeded": 0,
+        "currentMonth": "3979278.25",
+        "currentMonthGoal": 3997000,
+        "currentMonthGoalExceeded": 0,
+        "currentYearIncome": 44105278.25,
+        "currentYearEbitda": 4194000
+    },
+    "goals": [
+        {
+            "id": "1",
+            "title": "60 000 til sosiale tiltak",
+            "income": 41000000,
+            "ebitda": 3385000
+        },
+        {
+            "id": "1",
+            "title": "120 000 til sosiale tiltak",
+            "income": 49000000,
+            "ebitda": 4000000
+        }
+    ]
+}
