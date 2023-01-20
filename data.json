@@ -664,5 +664,37 @@
             "income": 49000000,
             "ebitda": 4000000
         }
+    ],
+    "branches": [
+        {
+            "preview": "",
+            "incomeCurrentWeek": 2345,
+            "incomeCurrentMonth": 53545,
+            "budget": 53455
+        },
+        {
+            "preview": "",
+            "incomeCurrentWeek": 1234,
+            "incomeCurrentMonth": 34567,
+            "budget": 34567
+        },
+        {
+            "preview": "",
+            "incomeCurrentWeek": 1345,
+            "incomeCurrentMonth": 43545,
+            "budget": 43455
+        },
+        {
+            "preview": "",
+            "incomeCurrentWeek": 345,
+            "incomeCurrentMonth": 23545,
+            "budget": 23455
+        },
+        {
+            "preview": "",
+            "incomeCurrentWeek": 2345,
+            "incomeCurrentMonth": 53545,
+            "budget": 53455
+        }
     ]
 }
