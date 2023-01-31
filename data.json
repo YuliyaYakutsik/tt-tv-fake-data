@@ -670,7 +670,8 @@
             "id": "branch_1",
             "preview": "",
             "title": "Tjenestetorget",
-            "color": "#0066FF", 
+            "color": "#0066FF",
+            "incomeCurrentDay": 345,
             "incomeCurrentWeek": 2345,
             "incomeCurrentMonth": 53545,
             "budget": 53455
@@ -679,7 +680,8 @@
             "id": "branch_2",
             "preview": "",
             "title": "Tjenestetorvet",
-            "color": "#0066FF", 
+            "color": "#0066FF",
+            "incomeCurrentDay": 145,
             "incomeCurrentWeek": 1234,
             "incomeCurrentMonth": 34567,
             "budget": 34567
@@ -688,7 +690,8 @@
             "id": "branch_3",
             "preview": "",
             "title": "Tjänstetorget",
-            "color": "#0066FF", 
+            "color": "#0066FF",
+            "incomeCurrentDay": 645,
             "incomeCurrentWeek": 1345,
             "incomeCurrentMonth": 43545,
             "budget": 43455
@@ -697,7 +700,8 @@
             "id": "branch_4",
             "preview": "",
             "title": "Tjenestetorget Finans",
-            "color": "#00AC46", 
+            "color": "#00AC46",
+            "incomeCurrentDay": 1045,
             "incomeCurrentWeek": 345,
             "incomeCurrentMonth": 23545,
             "budget": 23455
@@ -706,7 +710,8 @@
             "id": "branch_5",
             "preview": "",
             "title": "Anbudstorget",
-            "color": "#FF7E00", 
+            "color": "#FF7E00",
+            "incomeCurrentDay": 745,
             "incomeCurrentWeek": 2345,
             "incomeCurrentMonth": 53545,
             "budget": 53455
