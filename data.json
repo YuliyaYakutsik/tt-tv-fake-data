@@ -715,6 +715,16 @@
             "incomeCurrentWeek": 2345,
             "incomeCurrentMonth": 53545,
             "budget": 53455
+        },
+        {
+            "id": "branch_6",
+            "preview": "",
+            "title": "Prisbay",
+            "color": "#FF7E00",
+            "incomeCurrentDay": 0,
+            "incomeCurrentWeek": 2345,
+            "incomeCurrentMonth": 53545,
+            "budget": 53455
         }
     ]
 }
